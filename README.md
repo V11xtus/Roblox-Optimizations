@@ -205,5 +205,14 @@ Run task manager.
 Step 2: 
 Go to the start up apps tab and disable all start up apps you dont want.
 
+===================================================================
+===========						===========
+===========	        System Configurations		===========
+===========						===========
+===================================================================
 
+Step 1: Look up System Configurations in your search bar and open it
+
+Step 2:
+Then go to the boot tab and then set the number of process to the highest available you have. 
 
