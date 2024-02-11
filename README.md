@@ -203,7 +203,7 @@ Step 1:
 Run task manager.
 
 Step 2: 
-
+Go to the start up apps tab and disable all start up apps you dont want.
 
 
 
