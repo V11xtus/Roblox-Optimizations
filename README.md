@@ -1,4 +1,4 @@
-## R_EGENERATlON Optimizations:
+## R_EGENERATlON's Optimizations:
 
 First of all make a restore point, because if you don't like something you can always restore it. 
 Another thing I'd like to say is that all these reg edit optimizations is what for me feels the best and has worked the best for me on performance, 
